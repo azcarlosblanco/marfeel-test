@@ -1,0 +1,13 @@
+/*TODO: fix top*/
+.articles-container {
+    padding-top: 120px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 800px;
+}
+
+@media (max-width: 800px) {
+    .articles-container {
+      width:100%;  
+    }
+}
